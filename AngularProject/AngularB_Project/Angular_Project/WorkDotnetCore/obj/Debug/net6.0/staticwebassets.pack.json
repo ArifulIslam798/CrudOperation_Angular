@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\1270809\\AngularProject\\AngularB_Project\\Angular_Project\\WorkDotnetCore\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "D:\\1270809\\AngularProject\\AngularB_Project\\Angular_Project\\WorkDotnetCore\\wwwroot\\Pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2.jpg"
+    },
+    {
+      "Id": "D:\\1270809\\AngularProject\\AngularB_Project\\Angular_Project\\WorkDotnetCore\\wwwroot\\Pictures\\29762a01-7639-4e61-851f-bbc7e3c4cff1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\29762a01-7639-4e61-851f-bbc7e3c4cff1.jpg"
+    },
+    {
+      "Id": "D:\\1270809\\AngularProject\\AngularB_Project\\Angular_Project\\WorkDotnetCore\\wwwroot\\Pictures\\2a2800c8-a859-47e6-8ed7-71ec9328a3fc.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2a2800c8-a859-47e6-8ed7-71ec9328a3fc.jpg"
+    },
+    {
+      "Id": "D:\\1270809\\AngularProject\\AngularB_Project\\Angular_Project\\WorkDotnetCore\\wwwroot\\Pictures\\515c3e6f-dada-4af7-80b5-f01b48df0e19.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\515c3e6f-dada-4af7-80b5-f01b48df0e19.jpg"
+    },
+    {
+      "Id": "D:\\1270809\\AngularProject\\AngularB_Project\\Angular_Project\\WorkDotnetCore\\wwwroot\\Pictures\\82f36894-7cc9-49cb-a967-58cc1ebd2628.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\82f36894-7cc9-49cb-a967-58cc1ebd2628.jpg"
+    },
+    {
+      "Id": "D:\\1270809\\AngularProject\\AngularB_Project\\Angular_Project\\WorkDotnetCore\\wwwroot\\Pictures\\b905a270-9c19-45a4-b13b-56369ecb5ee1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\b905a270-9c19-45a4-b13b-56369ecb5ee1.jpg"
+    },
+    {
+      "Id": "D:\\1270809\\AngularProject\\AngularB_Project\\Angular_Project\\WorkDotnetCore\\wwwroot\\Pictures\\ba992df0-384a-4479-aadf-04ad4c4dbc1f.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\ba992df0-384a-4479-aadf-04ad4c4dbc1f.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WorkDotnetCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WorkDotnetCore.props",
+      "PackagePath": "build\\WorkDotnetCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WorkDotnetCore.props",
+      "PackagePath": "buildMultiTargeting\\WorkDotnetCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WorkDotnetCore.props",
+      "PackagePath": "buildTransitive\\WorkDotnetCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
